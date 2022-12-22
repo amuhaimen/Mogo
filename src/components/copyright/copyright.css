@@ -1,0 +1,23 @@
+.copyrighgt {
+  width: 100%;
+  height: 80px;
+  background-color: #e5e5e5;
+}
+.copyrightcontainer p {
+  line-height: 80px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+.copyrightcontainer p a {
+  color: #f38181;
+}
+/* copyright end */
+#emptyspaceforscrool {
+  height: 700px;
+  width: 100%;
+}
+.copyrightcontainer {
+  height: 100%;
+  width: 1200px;
+  text-align: center;
+}
